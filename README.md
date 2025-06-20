@@ -1,5 +1,7 @@
 # General Cybersecurity Resources and Relevant Information
 
+This material was originally created to go along with a community cybersecurity training conference. The PowerPoint used can be found [here](https://noobsit-my.sharepoint.com/:p:/p/ray/ESuqb81a5ipEtXHNYi6XfEkBz4BGyhkZi5twW_0PVR_1Fw?e=EtNEXD)
+
 ## Good sources of information
 - [Electronic Frotier Foundation](https://www.eff.org/)
     - The leading non-profit organization defending civil liberties in the digital world.
