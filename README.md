@@ -53,6 +53,8 @@ This material was originally created to go along with a community cybersecurity 
 - [Doxxing prevention and mitigation](https://crimethinc.com/2020/08/26/doxcare-prevention-and-aftercare-for-those-targeted-by-doxxing-and-political-harassment)
 - [Police use dragent search techniques to arrest murder suspects](https://www.wired.com/story/find-my-iphone-arson-case/)
 - [ICE is accessing an AI facial recognition survice (Flock) to track immigrants](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/)
+- [Facebook has tracked Android users' activity accross apps without permission](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+    - [Research Paper with technical details](https://localmess.github.io/)
 
 ## Books
 
